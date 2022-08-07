@@ -22,4 +22,4 @@
 
 ### [BOS - Boston Logan International Airport](https://www.massport.com/logan-airport/) (6)
 
-![BOS](https://www.researchgate.net/profile/Kai-Shi-9/publication/282218228/figure/fig1/AS:391614724886528@1470379634125/Airport-diagram-BOS-2.png)
+![BOS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/KBOS_airport_diagram_2011.svg/509px-KBOS_airport_diagram_2011.svg.png)
