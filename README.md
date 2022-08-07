@@ -19,3 +19,7 @@
 ### [AMS - Amsterdam Airport Schiphol](https://www.schiphol.nl/en/) (6)
 
 ![AMS](https://www.spotterguide.net/wp-content/uploads/2014/08/EHAM-Chart.png)
+
+### [BOS - Boston Logan International Airport](https://www.massport.com/logan-airport/) (6)
+
+![BOS](https://www.researchgate.net/profile/Kai-Shi-9/publication/282218228/figure/fig1/AS:391614724886528@1470379634125/Airport-diagram-BOS-2.png)
